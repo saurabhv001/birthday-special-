@@ -1,5 +1,5 @@
 body {
-    background-image: url('c:\Users\Dell\Desktop\rickey\x.jpg'); /* Path to your image */
+    background-image: url(x.jpg;) /* Path to your image */
     background-size: cover; /* Ensures the image covers the entire viewport */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
